@@ -1,5 +1,6 @@
 [![alexfrs199's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfrs199)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
+##
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrs199&langs_count=12&layout=compact&theme=midnight-purple" align="right">
 
 <!--
 **alexfrs199/alexfrs199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
