@@ -1,8 +1,8 @@
 ### Hello World!
-
-<img style="width:45vw; float:left" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=alexfrs199&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" />
-<img style="width:45vw" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=alexfrs199&layout=compact&theme=dracula&hide_border=true" />
-
+<div style="display:flex; width:100%">
+<img style="width:50%;" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=alexfrs199&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" />
+<img style="width:50%" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=alexfrs199&layout=compact&theme=dracula&hide_border=true" />
+</div>
 <hr>
 
 <div style="display:inline_block">
