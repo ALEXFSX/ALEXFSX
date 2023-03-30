@@ -1,4 +1,4 @@
-[![alexfrs199's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfrs199)](https://github.com/anuraghazra/github-readme-stats)
+[![alexfrs199's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfrs199)](https://github.com/alexfrs199/github-readme-stats)
 ##
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrs199&langs_count=12&layout=compact&theme=midnight-purple" align="right">
 
