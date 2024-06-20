@@ -1,7 +1,7 @@
 ### Hello World!
 <div style="display:flex; width:100%">
-<img style="width:54%; float:left;" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=alexfsx&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" />
-<img style="width:45%" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=alexfsx&layout=compact&theme=dracula&hide_border=true" />
+<img style="width:54%; float:left;" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=ALEXFSX&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" />
+<img style="width:45%" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=ALEXFSX&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <hr>
