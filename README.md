@@ -1,7 +1,5 @@
 ### Hello World!
 <div style="display:flex; width:100%">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXFSX&theme=dark&show_icons=true)
 <img style="width:54%; float:left;" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=ALEXFSX&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Igu github stats" />
 <img style="width:45%" align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=ALEXFSX&layout=compact&theme=dracula&hide_border=true" />
 </div>
